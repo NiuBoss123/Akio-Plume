@@ -23,7 +23,7 @@ pnpm docs:preview
 pnpm vp-update
 ```
 
-## 文件
+## 相關文檔
 
 - [vuepress](https://vuepress.vuejs.org/)
 - [vuepress-theme-plume](https://theme-plume.vuejs.press/)
