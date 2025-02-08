@@ -14,11 +14,13 @@ export default defineUserConfig({
   ],
 
   bundler: viteBundler(),
-  shouldPrefetch: false, // 站点较大，页面数量较多时，不建议启用
+  shouldPrefetch: true, // 站点较大，页面数量较多时，不建议启用
 
   theme: plumeTheme({
     /* 添加您的部署域名, 有助于 SEO, 生成 sitemap */
     hostname: 'https://plune.akio.top',
+    copyright: 'CC-BY-NC-SA-4.0',
+    contributors: true,
 
     /* 文档仓库配置，用于 editLink */
     // docsRepo: '',
@@ -65,6 +67,8 @@ export default defineUserConfig({
     // },
 
     plugins: {
+      git: true,
+
       /**
        * Shiki 代码高亮
        * @see https://theme-plume.vuejs.press/config/plugins/code-highlight/
