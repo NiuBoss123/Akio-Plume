@@ -49,7 +49,9 @@ import RepoCard from 'vuepress-theme-plume/features/RepoCard.vue'
 
 本站作为“御坂秋生の小窝（[www.akio.top](https://www.akio.top/)）”的其中一个备用站而存在，时不时同步来自那边的文章
 
-这么做的主要原因是“御坂秋生の小窝”是一个前后端分离的站点，前端部署在[Vercel](https://vercel.com)，但后端是部署在本人租的腾讯云轻量服务器上，鉴于本人财力不足，有必要做两手准备，也因为这样那样的原因，这个网站大概率是没有评论区的
+这么做的主要原因是“御坂秋生の小窝”是一个前后端分离的站点，虽然是前后端分离的站点，但前后端是部署在本人租的腾讯云轻量服务器上，鉴于本人财力不足，有必要做两手准备
+
+也因为这样那样的原因，这个网站大概率是没有评论区的
 
 本站采用了 [VuePress](https://v2.vuepress.vuejs.org/) 作为框架，使用 [Plume](https://theme-plume.vuejs.press/) 作为站点主题，很感谢每一个人的付出
 
