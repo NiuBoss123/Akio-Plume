@@ -117,18 +117,16 @@ permalink: /posts/deploy-cloudflare-tunnel-on-your-own-computer/
 根据他的提示填写以上信息即可，填写完后点击“保存隧道”，这时候访问你创建的链接来检查访问是否正常吧
 
 ::: warning
-如果出现例如 `Error: Bad Configuration: Validation failed: parse "http://127.0.0.1:2333 ": invalid port ":2333 " after host` 的提示，可以返回到“Tunnels”页面，进入刚才创建的隧道的配置页面，在“公共主机名”页面独立配置，配置方法和刚才一致，一般情况下这样可以解决问题
-
-- 如果没有，请确认自己的防火墙没有拦截有关于 cloudflared 的连接，一般情况下，Linux 系统不会拦截有关于 cloudflared 的连接
+- 如果出现例如 `Error: Bad Configuration: Validation failed: parse "http://127.0.0.1:2333 ": invalid port ":2333 " after host` 的提示，可以返回到“Tunnels”页面，进入刚才创建的隧道的配置页面，在“公共主机名”页面独立配置，配置方法和刚才一致，一般情况下这样可以解决问题
+- 如果没有解决问题，请确认自己的防火墙没有拦截有关于 cloudflared 的连接，一般情况下，Linux 系统不会拦截有关于 cloudflared 的连接
 - Windows 记得在防火墙放通 cloudflared，尽管在安装的时候 cloudflared 已经创建了相关入站规则，但不一定被启用了
 - Windows 用户请前往“高级安全Windows Defender防火墙”启用名字为“cloudflared”的两个规则，一般情况下启用后即可正常
-
 ![](https://mx-space.akio.top/api/v2/objects/icon/uz28yw6uxwsh8vw0qq.png)
 :::
 
 ## 后记
 
-Cloudflare 这边还建议你 Access 创建一个应用程序来保护你的连接，这就看个人了
+Cloudflare 这边还建议你在 Access 创建一个应用程序来保护你的连接，这就看个人了
 
 ## 相关链接
 
