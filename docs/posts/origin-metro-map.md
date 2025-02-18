@@ -3,7 +3,7 @@ title: 【复刻】起源地铁路线图
 createTime: 2024-12-23
 description: ''
 image: ''
-tags: [二创,起源地铁,BLUEAKIO,DesignBLUEAKIO]
+tags: [文创产品,二创,起源地铁,BLUEAKIO,DesignBLUEAKIO]
 category: '文创产品'
 draft: false 
 permalink: /posts/origin-metro-map/

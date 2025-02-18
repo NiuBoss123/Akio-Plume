@@ -3,7 +3,7 @@ title: 【补发】【复刻】滨江所有轨道交通路线图
 createTime: 2024-12-23
 description: ''
 image: ''
-tags: [二创,BLUEAKIO,DesignBLUEAKIO]
+tags: [文创产品,二创,BLUEAKIO,DesignBLUEAKIO]
 category: '文创产品'
 draft: false 
 permalink: /posts/bingjiang-rail-transit-map/
