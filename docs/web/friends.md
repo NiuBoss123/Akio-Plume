@@ -150,7 +150,7 @@ groups:
       -
         name: Canmi
         avatar: https://raw.githubusercontent.com/Canmi21/Canmi21/refs/heads/main/assets/Canmi.webp
-        link: https://canmi21.github.io/
+        link: https://arc.canmi.icu/
         desc: 彩笔猫猫
       -
         name: SunRt233的站点
