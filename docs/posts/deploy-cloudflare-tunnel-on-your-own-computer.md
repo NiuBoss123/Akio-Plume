@@ -23,7 +23,7 @@ permalink: /posts/course/deploy-cloudflare-tunnel-on-your-own-computer/
 
 （绑的是中银万事达卡）
 
-::: banner {error}
+::: warning
 实测银联不行，至少中国大陆发行的银联卡不行，哪怕银联可以走 Discover 统统但也没法验证，所以老老实实办一张 MasterCard 或者 AMEX 吧，人民币卡是可以绑定的，这方面管的不严
 :::
 
@@ -93,7 +93,7 @@ permalink: /posts/course/deploy-cloudflare-tunnel-on-your-own-computer/
 
 这里我们已经提前完成了第1到第3步骤，直接复制指令到刚打开的控制台回车即可
 
-::: banner {error}
+::: caution
 请小心存放您的令牌。此命令包含允许连接器运行的敏感令牌。任何有权访问此令牌的人员都能够运行隧道
 :::
 
