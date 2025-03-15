@@ -26,7 +26,9 @@ permalink: /posts/card/china-citic-bank-amex-debit/
 
 开卡会扣5块人民币，这笔钱之后会直接进入你的帐内
 
-填完之后，在家等待即可
+填完之后，在家等待即可，之后会收到如下图的卡
+
+![](https://mx-space.akio.top/api/v2/objects/icon/hzwetdajnuu8hyxp1d.jpg)
 
 ### 网点激活
 
