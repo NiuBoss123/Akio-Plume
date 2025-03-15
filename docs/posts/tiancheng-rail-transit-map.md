@@ -6,7 +6,7 @@ image: ''
 tags: [文创产品,二创,天城轨道交通,BLUEAKIO,DesignBLUEAKIO]
 category: '文创产品'
 draft: false 
-permalink: /posts/tiancheng-rail-transit-map/
+permalink: /posts/cultural/tiancheng-rail-transit-map/
 ---
 ![](https://act-webstatic.akio.top/2024/12/23/67694ee4aab70.png '宣传图')
 ![](https://act-webstatic.akio.top/2024/12/23/67694ecd6e335.png '亮色版')

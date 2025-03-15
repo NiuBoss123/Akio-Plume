@@ -6,7 +6,7 @@ image: ''
 tags: [教程,Cloudflare]
 category: '教程'
 draft: false 
-permalink: /posts/deploy-cloudflare-tunnel-on-your-own-computer/
+permalink: /posts/course/deploy-cloudflare-tunnel-on-your-own-computer/
 ---
 ## 前言
 

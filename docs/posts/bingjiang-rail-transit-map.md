@@ -6,7 +6,7 @@ image: ''
 tags: [文创产品,二创,BLUEAKIO,DesignBLUEAKIO]
 category: '文创产品'
 draft: false 
-permalink: /posts/bingjiang-rail-transit-map/
+permalink: /posts/cultural/bingjiang-rail-transit-map/
 ---
 ![](https://act-webstatic.akio.top/2024/12/23/6769551b56fc5.png '宣传图')
 ![](https://act-webstatic.akio.top/2024/12/23/676954bbb4e63.png '亮色版')

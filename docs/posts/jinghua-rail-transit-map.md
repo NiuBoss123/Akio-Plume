@@ -6,7 +6,7 @@ image: ''
 tags: [文创产品,BLUEAKIO, DesignBLUEAKIO, 安林]
 category: '文创产品'
 draft: false 
-permalink: /posts/jinghua-rail-transit-map/
+permalink: /posts/cultural/jinghua-rail-transit-map/
 ---
 ![](https://act-webstatic.akio.top/2024/06/19/66721885b510f.png '宣传图')
 ![](https://act-webstatic.akio.top/2024/06/22/6675e1ed9dd0f.png '亮色版')

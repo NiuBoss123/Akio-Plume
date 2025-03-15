@@ -6,7 +6,7 @@ image: ''
 tags: [文创产品,二创,起源地铁,BLUEAKIO,DesignBLUEAKIO]
 category: '文创产品'
 draft: false 
-permalink: /posts/origin-metro-map/
+permalink: /posts/cultural/origin-metro-map/
 ---
 ![](https://act-webstatic.akio.top/2024/12/23/67694aae2f03f.png '宣传图')
 ![](https://act-webstatic.akio.top/2024/12/23/67694b7d9b189.png '亮色版')

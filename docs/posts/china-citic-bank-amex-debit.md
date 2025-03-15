@@ -6,7 +6,7 @@ image: ''
 tags: [银行卡,中信银行,美国运通AMEX]
 category: '银行卡'
 draft: false 
-permalink: /posts/china-citic-bank-amex-debit/
+permalink: /posts/card/china-citic-bank-amex-debit/
 ---
 中信在运通取得牌照之后就早早和运通一起发了这张卡，在美国运通官网里是分类在 **金卡借记卡** 下的
 

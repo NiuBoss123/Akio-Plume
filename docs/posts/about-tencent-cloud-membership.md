@@ -6,7 +6,7 @@ image: ''
 tags: [Tencent Cloud,不再更新]
 category: '默认分类'
 draft: false 
-permalink: /posts/about-tencent-cloud-membership/
+permalink: /posts/default/about-tencent-cloud-membership/
 ---
 是的，我向腾讯倒了（误
 

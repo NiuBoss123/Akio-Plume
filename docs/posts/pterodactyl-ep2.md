@@ -6,7 +6,7 @@ image: ''
 tags: [教程,Pterodactyl Panel,不再更新]
 category: '教程'
 draft: false 
-permalink: /posts/pterodactyl-ep2/
+permalink: /posts/course/pterodactyl-ep2/
 ---
 ## EP2：翼龙前端
 
