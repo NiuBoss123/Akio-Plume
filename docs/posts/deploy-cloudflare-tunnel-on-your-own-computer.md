@@ -19,13 +19,15 @@ permalink: /posts/course/deploy-cloudflare-tunnel-on-your-own-computer/
 
 整个步骤都基于你早就创建了一个 Cloudflare 账户，同时已经把域名的 DNS 绑定到 Cloudflare 账户上了
 
-首先你得准备一张银行卡，Visa & MasterCard & AMEX & Discover 任选一，之前有人说可以绑 PayPal，但至少，在我之前为了使用 R2 绑卡的时候已经没有 PayPal 的按钮了，所以请自备银行卡吧~
+首先你得准备一张银行卡，Visa & MasterCard & AMEX & Discover 任选一，之前有人说可以绑 PayPal，~~但至少，在我之前为了使用 R2 绑卡的时候已经没有 PayPal 的按钮了~~，玄学反正，我是没看到 PayPal 的按钮，所以是绑卡的
 
-::: warning
+（绑的是中银万事达卡）
+
+::: banner {error}
 实测银联不行，至少中国大陆发行的银联卡不行，哪怕银联可以走 Discover 统统但也没法验证，所以老老实实办一张 MasterCard 或者 AMEX 吧，人民币卡是可以绑定的，这方面管的不严
 :::
 
-记得在账户里留大约1美元，Cloudflare 验证账户的时候要扣大约1美元来验证账户
+如果走银行卡的话，记得在账户里留大约1美元，Cloudflare 验证账户的时候要扣大约1美元来验证账户
 
 ## EP1：初始化 Zero Trust
 
@@ -91,7 +93,7 @@ permalink: /posts/course/deploy-cloudflare-tunnel-on-your-own-computer/
 
 这里我们已经提前完成了第1到第3步骤，直接复制指令到刚打开的控制台回车即可
 
-::: caution
+::: banner {error}
 请小心存放您的令牌。此命令包含允许连接器运行的敏感令牌。任何有权访问此令牌的人员都能够运行隧道
 :::
 
@@ -126,7 +128,9 @@ permalink: /posts/course/deploy-cloudflare-tunnel-on-your-own-computer/
 
 ## 后记
 
-Cloudflare 这边还建议你在 Access 创建一个应用程序来保护你的连接，这就看个人了
+Cloudflare 这边还建议你 Access 创建一个应用程序来保护你的连接，这就看个人了（我没做，我不会弄这个）
+
+以上操作可同理到服务器上（废话）
 
 ## 相关链接
 
