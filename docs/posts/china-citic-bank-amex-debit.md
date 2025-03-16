@@ -30,6 +30,9 @@ permalink: /posts/card/china-citic-bank-amex-debit/
 
 ![](https://mx-space.akio.top/api/v2/objects/icon/hzwetdajnuu8hyxp1d.jpg)
 
+
+BIN 是 377138，有效期只有五年，但是中信补卡以及换卡都不需要到网点，在 APP 里填写卡号、CVV、身份信息即可，也就是说如果没有其他问题的话，这张卡拿到手里只需要去一次网点就行
+
 ### 网点激活
 
 我是在中信银行南宁分行激活的，除了银行卡、身份证，没带别的东西（当时还很天真）
