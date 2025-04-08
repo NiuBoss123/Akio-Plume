@@ -7,7 +7,7 @@ permalink: /equipment/
 ### 手机
 #### Redmi Note 12 5G
 * 购买渠道：京东
-* 系统：Xiaomi HyperOS 1.0.1.0 (Xiaomi.EU)
+* 系统：Xiaomi HyperOS 1.0.5.0.TJACNXM
 * 运行内存：8G
 * 存储：128GB
 * 购买价格：忘了
@@ -33,3 +33,8 @@ permalink: /equipment/
 * 运行内存：16G
 * 存储：512GB
 * 购买价格：RMB 5999
+
+### 穿戴设备
+#### 小米手环9 Pro
+* 购买渠道：小米之家（线下）
+* 购买价格：RMB 399
