@@ -162,6 +162,11 @@ groups:
         avatar: https://blog.aulypc0x0.online/favicon/favicon_amiya.webp
         link: https://blog.aulypc0x0.online/
         desc: 今日も生きててえらい ☁
+      -
+        name: damesck的小屋
+        avatar: https://user.klpbbs.com/data/avatar/000/00/61/73_avatar_big.jpg
+        link: https://damesck.net/
+        desc: 致不完美的明天_
   - 
     title: 我的收藏
     list:
