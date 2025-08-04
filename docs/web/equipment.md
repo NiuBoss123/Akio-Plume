@@ -5,23 +5,23 @@ permalink: /equipment/
 ---
 ## 电子设备
 ### 手机
+#### Samsung Galaxy S24 Ultra
+* 购买渠道：京东
+* 系统：One UI 7.0（Android 15）
+* 运行内存：12G
+* 存储：256GB
+* 购买价格：RMB 5299
+
 #### Redmi Note 12 5G
 * 购买渠道：京东
-* 系统：Xiaomi HyperOS 1.0.5.0.TJACNXM
+* 系统：Xiaomi HyperOS 2.0.2.0（Android 13）
 * 运行内存：8G
 * 存储：128GB
 * 购买价格：忘了
 
-#### Mi 10 Pro
-* 购买渠道：转转官方验
-* 系统：HyperOS by xiaome.eu 1.0.5.0.TJACNXM
-* 运行内存：8G
-* 存储：256GB
-* 购买价格：RMB 683
-
 #### Meizu S6
 * 购买渠道：淘宝
-* 系统：Flyme 8.0
+* 系统：Flyme 8.0（Android 7）
 * 运行内存：3G
 * 存储：64GB
 * 购买价格：忘了

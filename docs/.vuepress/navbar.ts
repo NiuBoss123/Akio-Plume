@@ -9,7 +9,6 @@ export const navbar = defineNavbarConfig([
     text: '其他页面',
     icon: 'mdi:format-list-bulleted',
     items: [
-      { text: '关于 Development', link: '/development/', icon: 'mdi:dev-to' },
       { text: '个人账号', link: '/account/', icon: 'mdi:account' },
       { text: '拥有的设备', link: '/equipment/', icon: 'mdi:cellphone' },
       { text: '各项开销及赞助事宜', link: '/bill-and-sponsor/', icon: 'mdi:attach-money' }
