@@ -14,10 +14,6 @@ export const navbar = defineNavbarConfig([
       { text: '各项开销及赞助事宜', link: '/bill-and-sponsor/', icon: 'mdi:attach-money' }
     ]
   },
-  /*{
-    text: '个人总结',
-    items: [{ text: '示例', link: '/notes/demo/README.md' }]
-  },*/
   { text: '友链', link: 'https://www.akio.top/friends', icon: 'mdi:human-male-male' },
   { text: '前往主站', link: 'https://www.akio.top', icon: 'mdi:web' },
 ])

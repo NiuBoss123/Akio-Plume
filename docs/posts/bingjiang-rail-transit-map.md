@@ -15,8 +15,6 @@ permalink: /posts/cultural/bingjiang-rail-transit-map/
 ## 简介
 补发一个之前漏发了的线路图，也是复刻的，原图作者是[@柴荣猫猫](https://space.bilibili.com/1634064378)
 
-![](https://act-webstatic.akio.top/2024/12/23/67694b4361010.png)
-
 这图复刻起来难度不高，主要还是原图本来就很规整，没有太多问题
 
 ## 高清图
