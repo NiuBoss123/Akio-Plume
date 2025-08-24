@@ -9,7 +9,7 @@ groups:
     list:
       -
         name: 静かな森
-        avatar: https://api.innei.ren/v2/objects/avatar/zzv2jig76w8x33vxi6.jpg
+        avatar: https://cdn.jsdelivr.net/gh/Innei/static@master/avatar.png
         link: https://innei.in
         desc: 致虚极，守静笃。
       -
@@ -24,9 +24,9 @@ groups:
         desc: 
       -
         name: JIPA233の小窝
-        avatar: https://jipa.moe/static/avatar.jpg
-        link: https://jipa.moe
-        desc: 寒蝉黎明之时，便是重生之日
+        avatar: https://imjipa.top/static/avatar.jpg
+        link: https://imjipa.top
+        desc: Deed divides beings into lower and higher ones.
       -
         name: SuemorのBlog
         avatar: https://y.suemor.com/images89030875.jpeg
@@ -171,9 +171,9 @@ groups:
     title: 我的收藏
     list:
       -
-        name: 保罗的小宇宙
-        avatar: https://paugram.com/usr/themes/single/img/icon.png
-        link:   https://paugram.com
+        name: 保罗的小窝
+        avatar: https://paul.ren/
+        link:   https://paul.ren/icon.png
         desc: Still single, still waiting...
       -
         name: RainChan的小博客
@@ -200,11 +200,6 @@ groups:
         avatar: https://wiki.hydcraft.cn/favicon/logo.png
         link: https://wiki.hydcraft.cn
         desc: 氢气工艺服务器是一个以城市建设为主、多元化为辅的多模组创造类服务器
-      -
-        name: 临东市
-        avatar: https://wiki.shangxiaoguan.top/resources/assets/logo.png
-        link: https://wiki.shangxiaoguan.top
-        desc: 向往临东，美好生活。
       -
         name: MineBBS
         avatar: 
