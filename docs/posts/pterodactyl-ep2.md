@@ -1,10 +1,12 @@
 ---
 title: 【翼龙面板搭建 EP2】前端的安装
 createTime: 2023-07-19
+date: 2023/07/19
 description: ''
 image: ''
 tags: [教程,Pterodactyl Panel,不再更新]
 category: '教程'
+categories: [教程]
 draft: false 
 permalink: /posts/course/pterodactyl-ep2/
 ---

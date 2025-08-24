@@ -1,10 +1,12 @@
 ---
 title: 【中信银行】中信美国运通人民币卡实测
 createTime: 2025-03-15
+date: 2025/03/15
 description: ''
 image: ''
 tags: [银行卡,中信银行,美国运通AMEX]
 category: '银行卡'
+categories: [银行卡]
 draft: false 
 permalink: /posts/card/china-citic-bank-amex-debit/
 ---

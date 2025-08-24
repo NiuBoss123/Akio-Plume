@@ -1,10 +1,12 @@
 ---
 title: 记录 2023 年第 111 天 —— 折腾新手机
 createTime: 2023-04-21
+date: 2023/04/21
 description: ''
 image: ''
 tags: [手记]
 category: '手记'
+categories: [手记]
 draft: false 
 permalink: /note/8/
 ---

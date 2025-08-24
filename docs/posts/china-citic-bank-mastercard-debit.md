@@ -1,10 +1,12 @@
 ---
 title: 【中信银行】中信万事达双币卡实测
 createTime: 2025-03-16
+date: 2025/03/16
 description: ''
 image: ''
 tags: [银行卡,中信银行,万事达MasterCrad]
 category: '银行卡'
+categories: [银行卡]
 draft: false 
 permalink: /posts/card/china-citic-bank-mastercard-debit/
 ---

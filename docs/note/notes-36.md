@@ -1,10 +1,12 @@
 ---
 title: 记录 2025 年第 217 天
 createTime: 2025-08-05
+date: 2025/08/05
 description: ''
 image: ''
 tags: [手记]
 category: '手记'
+categories: [手记]
 draft: false 
 permalink: /note/36/
 ---

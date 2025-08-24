@@ -1,10 +1,12 @@
 ---
 title: 备用站相关告示
 createTime: 2025-02-15
+date: 2025/02/15
 description: ''
 image: ''
 tags: [手记]
 category: '手记'
+categories: [手记]
 draft: false 
 permalink: /note/33/
 ---

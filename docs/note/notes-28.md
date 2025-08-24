@@ -1,10 +1,12 @@
 ---
 title: Windsys Project 停止更新后的一些思考
 createTime: 2024-05-13
+date: 2024/05/13
 description: '关于 Whatk 宣布 Windsys Project 停止更新后的想法'
 image: ''
 tags: [手记]
 category: '手记'
+categories: [手记]
 draft: false 
 permalink: /note/28/
 ---

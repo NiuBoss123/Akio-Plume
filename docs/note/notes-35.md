@@ -1,10 +1,12 @@
 ---
 title: 确诊后的第一篇文章
 createTime: 2025-05-15
+date: 2025/05/15
 description: ''
 image: ''
 tags: [手记]
 category: '手记'
+categories: [手记]
 draft: false 
 permalink: /note/35/
 ---

@@ -1,10 +1,12 @@
 ---
 title: 【Cloudflare】在自己电脑部署 Cloudflare Tunnel 
 createTime: 2025-02-18
+date: 2025/02/18
 description: ''
 image: ''
 tags: [教程,Cloudflare]
 category: '教程'
+categories: [教程]
 draft: false 
 permalink: /posts/course/deploy-cloudflare-tunnel-on-your-own-computer/
 ---

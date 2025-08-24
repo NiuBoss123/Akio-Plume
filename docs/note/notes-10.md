@@ -1,10 +1,12 @@
 ---
 title: 2023年的5月，接受摆烂的自己
 createTime: 2023-05-21
+date: 2023/05/21
 description: ''
 image: ''
 tags: [手记]
 category: '手记'
+categories: [手记]
 draft: false 
 permalink: /note/10/
 ---

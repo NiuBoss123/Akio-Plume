@@ -1,10 +1,12 @@
 ---
 title: 记录 2024 年第 64 天
 createTime: 2024-03-04
+date: 2024/03/04
 description: ''
 image: ''
 tags: []
 category: '手记'
+categories: [手记]
 draft: false 
 permalink: /note/19/
 ---

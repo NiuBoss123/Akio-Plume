@@ -1,10 +1,12 @@
 ---
 title: 记录 2024 年第 80 天 | 没钱啦
 createTime: 2024-03-18
+date: 2024/03/18
 description: ''
 image: ''
 tags: [手记]
 category: '手记'
+categories: [手记]
 draft: false 
 permalink: /note/22/
 ---

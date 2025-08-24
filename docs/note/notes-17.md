@@ -1,10 +1,12 @@
 ---
 title: 记录 2024 年第 12 天
 createTime: 2024-01-12
+date: 2024/01/12
 description: ''
 image: ''
 tags: [手记]
 category: '手记'
+categories: [手记]
 draft: false 
 permalink: /note/17/
 ---
