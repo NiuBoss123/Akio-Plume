@@ -14,7 +14,8 @@
     "docs:dev-clean": "vuepress dev docs --clean-cache --clean-temp",
     "docs:build": "vuepress build docs --clean-cache --clean-temp",
     "docs:preview": "http-server docs/.vuepress/dist",
-    "vp-update": "pnpm dlx vp-update"
+    "vp-update": "pnpm dlx vp-update",
+    "deploy": "npx wrangler deploy --assets=./docs/.vuepress/dist"
   },
   "devDependencies": {
     "@vuepress/bundler-vite": "2.0.0-rc.24",
@@ -23,7 +24,8 @@
     "typescript": "^5.9.2",
     "vue": "^3.5.19",
     "vuepress": "2.0.0-rc.24",
-    "vuepress-theme-plume": "1.0.0-rc.161"
+    "vuepress-theme-plume": "1.0.0-rc.161",
+    "wrangler": "^3.35.0"
   },
   "dependencies": {
     "@iconify/json": "^2.2.377"

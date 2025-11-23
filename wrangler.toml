@@ -1,0 +1,5 @@
+name = "akio-plume"
+compatibility_date = "2025-11-23"
+
+[assets]
+directory = "./docs/.vuepress/dist"
