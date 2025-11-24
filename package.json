@@ -18,16 +18,16 @@
     "deploy": "npx wrangler deploy --assets=./docs/.vuepress/dist"
   },
   "devDependencies": {
-    "@vuepress/bundler-vite": "2.0.0-rc.24",
+    "@vuepress/bundler-vite": "2.0.0-rc.26",
     "http-server": "^14.1.1",
-    "sass-embedded": "^1.90.0",
-    "typescript": "^5.9.2",
-    "vue": "^3.5.19",
-    "vuepress": "2.0.0-rc.24",
-    "vuepress-theme-plume": "1.0.0-rc.161",
-    "wrangler": "^3.35.0"
+    "sass-embedded": "^1.93.3",
+    "typescript": "^5.9.3",
+    "vue": "^3.5.25",
+    "vuepress": "2.0.0-rc.26",
+    "vuepress-theme-plume": "1.0.0-rc.178",
+    "wrangler": "^3.114.15"
   },
   "dependencies": {
-    "@iconify/json": "^2.2.377"
+    "@iconify/json": "^2.2.410"
   }
 }
