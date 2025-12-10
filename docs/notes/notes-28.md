@@ -8,7 +8,7 @@ tags: [手记]
 category: '手记'
 categories: [手记]
 draft: false 
-permalink: /note/28/
+permalink: /notes/28/
 ---
 ![](https://mx-space.akio.top/api/v2/objects/icon/sscn6jcyt4anx9r4gj.jpeg)
 

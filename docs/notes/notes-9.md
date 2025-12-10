@@ -8,7 +8,7 @@ tags: [手记]
 category: '手记'
 categories: [手记]
 draft: false 
-permalink: /note/9/
+permalink: /notes/9/
 ---
 君の指先には光が跃る、私はこの世に消えない信仰、唯超电磁炮永存生き、御坂美琴お誕生日おめでとう
 

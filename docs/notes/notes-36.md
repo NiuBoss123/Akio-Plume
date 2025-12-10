@@ -8,7 +8,7 @@ tags: [手记]
 category: '手记'
 categories: [手记]
 draft: false 
-permalink: /note/36/
+permalink: /notes/36/
 ---
 才发现自己好久不写文了，时间过得真快啊，转眼间我大一生活都结束了
 

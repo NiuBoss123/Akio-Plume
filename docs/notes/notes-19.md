@@ -8,7 +8,7 @@ tags: []
 category: '手记'
 categories: [手记]
 draft: false 
-permalink: /note/19/
+permalink: /notes/19/
 ---
 图一：cos 温迪，但是不会戴假发导致很丑，这是当时唯一的图
 

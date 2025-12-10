@@ -8,6 +8,6 @@ tags: [手记]
 category: '手记'
 categories: [手记]
 draft: false 
-permalink: /note/26/
+permalink: /notes/26/
 ---
 ![](https://mx-space.akio.top/api/v2/objects/icon/gsf7gja596grmsq5fu.png)

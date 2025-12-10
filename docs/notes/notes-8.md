@@ -8,7 +8,7 @@ tags: [手记]
 category: '手记'
 categories: [手记]
 draft: false 
-permalink: /note/8/
+permalink: /notes/8/
 ---
 昨天到货的新手机，Redmi Note 12，能 5G（虽然他说能 5G 但是我是真的没看见按钮）
 

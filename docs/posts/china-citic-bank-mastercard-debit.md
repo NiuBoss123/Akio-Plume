@@ -1,5 +1,5 @@
 ---
-title: 【中信银行】中信万事达双币卡实测
+title: 中信银行 万事达双币卡实测
 createTime: 2025-03-16
 date: 2025/03/16
 description: ''

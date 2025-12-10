@@ -15,10 +15,12 @@ permalink: /bill-and-sponsor/
 ## 赞助
 ### 赞助我
 #### 资金类赞助
-- 支付宝：请邮箱联系本人（niuboss123@foxmail.com）
-- 微信支付：请邮箱联系本人（niuboss123@foxmail.com）
-- 爱发电（不推荐）：https://afdian.com/a/misaka-akio
 
+| 支付宝（推荐） | 微信支付 |
+| --- | --- |
+| ![](https://act-webstatic.blueakio.com/2025/08/22/68a7e8f3ef8de.jpg) | ![](https://act-webstatic.blueakio.com/2025/08/22/68a7e8f2bd651.png) |
+
+- 爱发电（不推荐）：https://afdian.com/a/misaka-akio
 #### 佣金类赞助
 - 123云盘拉新链接：https://login.123pan.com/centerlogin?register=invite&ref=z7r1jv
 - 京东联盟：通过各种私信方式（QQ、哔哩哔哩私信 等）找我，选好商品后，我发链接给你

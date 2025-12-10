@@ -1,5 +1,5 @@
 ---
-title: 【翼龙面板搭建 EP1】后端 Wings 的安装
+title: 翼龙面板 EP1 后端 Wings 的安装
 createTime: 2023-07-19
 date: 2023/07/19
 description: ''
@@ -8,8 +8,11 @@ tags: [教程,Pterodactyl Panel,不再更新]
 category: '教程'
 categories: [教程]
 draft: false 
-permalink: /posts/course/pterodactyl-ep1/
+permalink: /posts/course/pterodactyl-setup-ep1/
 ---
+> [!CAUTION]
+> 本文章因各种各样的问题未能完成编写，在部署时请尽可能以官方教程为主
+
 ## 前言
 
 实际上我这个人对翼龙面板的探索，仅仅是了解前端，后端以及中间的连接，因为没有多余的机子就没得尝试，这不发现自己还有个华为云账号，甚至还能试用服务器，果断搞下，顺便试试看华为云的性能。

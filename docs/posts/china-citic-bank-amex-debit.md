@@ -1,5 +1,5 @@
 ---
-title: 【中信银行】中信美国运通人民币卡实测
+title: 中信银行 美国运通人民币卡实测
 createTime: 2025-03-15
 date: 2025/03/15
 description: ''

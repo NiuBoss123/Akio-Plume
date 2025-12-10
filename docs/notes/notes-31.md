@@ -8,7 +8,7 @@ tags: [手记,Minecraft,信风地铁]
 category: '手记'
 categories: [手记]
 draft: false 
-permalink: /note/31/
+permalink: /notes/31/
 ---
 ![](https://act-webstatic.blueakio.com/2024/09/06/66d9e44fc1e5a.png)
 ![](https://act-webstatic.blueakio.com/2024/09/06/66d9e45941be9.png)

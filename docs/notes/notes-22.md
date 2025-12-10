@@ -8,7 +8,7 @@ tags: [手记]
 category: '手记'
 categories: [手记]
 draft: false 
-permalink: /note/22/
+permalink: /notes/22/
 ---
 因为购买了某套衣服的缘故，要开始购买美白相关产品，同时也要开始安排剃毛了
 

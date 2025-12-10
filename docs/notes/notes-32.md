@@ -8,7 +8,7 @@ tags: [手记]
 category: '手记'
 categories: [手记]
 draft: false 
-permalink: /note/32/
+permalink: /notes/32/
 ---
 ## B站小成就
 

@@ -8,7 +8,7 @@ tags: [手记]
 category: '手记'
 categories: [手记]
 draft: false 
-permalink: /note/21/
+permalink: /notes/21/
 ---
 个人网站简介页面增加了个人账号的相关分区，由于使用的设备原因没给预定要做超链接的链接做上
 

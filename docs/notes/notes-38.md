@@ -8,7 +8,7 @@ tags: [手记]
 category: '手记'
 categories: [手记]
 draft: false 
-permalink: /note/38/
+permalink: /notes/38/
 ---
 Cloudflare 炸了好久，盯着status也盯累死我了（
 

@@ -1,5 +1,5 @@
 ---
-title: 【翼龙面板搭建 EP2】前端的安装
+title: 翼龙面板 EP2 前端的安装
 createTime: 2023-07-19
 date: 2023/07/19
 description: ''
@@ -8,15 +8,18 @@ tags: [教程,Pterodactyl Panel,不再更新]
 category: '教程'
 categories: [教程]
 draft: false 
-permalink: /posts/course/pterodactyl-ep2/
+permalink: /posts/course/pterodactyl-setup-ep2/
 ---
+> [!CAUTION]
+> 本文章因各种各样的问题未能完成编写，在部署时请尽可能以官方教程为主
+
 ## EP2：翼龙前端
 
 我这个香港机的很多服务都是 Docker 内运行的，一开始还感觉不行，细看文档后，可以是可以，但是看的我好晕……
 
 由于我已经安装过 1panel，所以就直接借用 1panel 来部署了
 
-关于 1panel 的安装，请查看 [EP1](/posts/pterodactyl-ep1)
+关于 1panel 的安装，请查看 [EP1](/posts/course/pterodactyl-setup-ep1/)
 
 先在 1panel 建一个新的站，选择运行环境，然后选择反向代理或者静态网站，如图
 

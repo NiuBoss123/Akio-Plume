@@ -43,10 +43,10 @@ export default defineUserConfig({
     // docsBranch: '',
 
     /* 页内信息 */
-    editLink: true,
-    lastUpdated: true,
-    contributors: true,
-    changelog: false,
+    // editLink: true,
+    // lastUpdated: true,
+    // contributors: true,
+    // changelog: false,
 
     /**
      * 编译缓存，加快编译速度
@@ -58,14 +58,11 @@ export default defineUserConfig({
      * 为 markdown 文件自动添加 frontmatter 配置
      * @see https://theme-plume.vuejs.press/config/theme/#autofrontmatter
      */
-     autoFrontmatter: {
-      permalink: false,  // 是否生成永久链接
-      createTime: false, // 是否生成创建时间
-      title: false,      // 是否生成标题
-      icon: { 
-        provider: 'iconify' 
-      }
-    },
+    // autoFrontmatter: {
+    //   permalink: true,  // 是否生成永久链接
+    //   createTime: true, // 是否生成创建时间
+    //   title: true,      // 是否生成标题
+    // },
 
     /* 本地搜索, 默认启用 */
     search: { provider: 'local' },
@@ -93,7 +90,7 @@ export default defineUserConfig({
     // },
 
     /* 文章字数统计、阅读时间，设置为 false 则禁用 */
-    readingTime: true,
+    // readingTime: true,
 
     /**
      * markdown
@@ -162,12 +159,6 @@ export default defineUserConfig({
     //   reactionsEnabled: true,
     //   inputPosition: 'top',
     // },
-
-    // 博文相关页面
-    collections: [ 
-      { type: 'post', dir: 'posts', title: '文稿' },
-      { type: 'post', dir: 'notes', title: '手记' }
-    ]
 
     /**
      * 资源链接替换

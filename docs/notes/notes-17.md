@@ -8,7 +8,7 @@ tags: [手记]
 category: '手记'
 categories: [手记]
 draft: false 
-permalink: /note/17/
+permalink: /notes/17/
 ---
 ## 个人网址的大迁移
 

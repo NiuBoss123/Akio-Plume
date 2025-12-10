@@ -8,7 +8,7 @@ tags: [手记]
 category: '手记'
 categories: [手记]
 draft: false 
-permalink: /note/35/
+permalink: /notes/35/
 ---
 正如标题所言，我被确诊为**焦虑抑郁症状**，上周六的事情了
 

@@ -8,7 +8,7 @@ tags: [手记]
 category: '手记'
 categories: [手记]
 draft: false 
-permalink: /note/10/
+permalink: /notes/10/
 ---
 看见 Innei 发了条关于自己近期的动态，想了想自己如此颓废的一个月，想杀死自己的心情都有了
 
