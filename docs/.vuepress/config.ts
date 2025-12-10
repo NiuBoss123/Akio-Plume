@@ -35,7 +35,6 @@ export default defineUserConfig({
       creation: 'original',
       license: 'CC-BY-NC-SA-4.0',
     },
-    contributors: true,
 
     /* 文档仓库配置，用于 editLink */
     // docsRepo: '',
