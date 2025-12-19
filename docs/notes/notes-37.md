@@ -16,9 +16,9 @@ permalink: /notes/37/
 
 对我来说是持续性的创伤性应激了，仿佛我也中了「终焉」病毒，只不过我没有死
 
-![true_ending](https://act-webstatic.blueakio.com/2025/11/16/691916008926b.jpg)
+![true_ending](https://act-webstatic.akio.top/2025/11/16/691916008926b.jpg)
 
-![good_ending](https://act-webstatic.blueakio.com/2025/11/16/69191602ddb7d.png)
+![good_ending](https://act-webstatic.akio.top/2025/11/16/69191602ddb7d.png)
 
 如果不是雷亚设计好的局 !!与 CytusⅠ 有关的彩蛋要去 BE 结局!!，我应该没那么大的创伤 !!这还是在我对不规则电磁声有一定恐惧感的情况下预设的!!
 

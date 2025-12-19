@@ -79,7 +79,7 @@ sudo systemctl restart docker
 
 打开 [Harbor Releases）](https://github.com/goharbor/harbor/releases)，你会在 Release 看到类似如下的内容
 
-![](https://act-webstatic.blueakio.com/2025/12/10/69391593862a2.png)
+![](https://act-webstatic.akio.top/2025/12/10/69391593862a2.png)
 
 `harbor-offline-installer-v<版本号>tgz` 的是离线安装包，`harbor-online-installer-v<版本号>tgz` 的是在线安装包，请根据实际最新版本来部署
 
@@ -89,7 +89,7 @@ sudo systemctl restart docker
 
 进入`harbor` 文件夹，如果目录下有以下内容（并且一个不缺的话），此时我们就完成了第一步
 
-![所有的文件](https://act-webstatic.blueakio.com/2025/12/10/693917e184a0d.png)
+![所有的文件](https://act-webstatic.akio.top/2025/12/10/693917e184a0d.png)
 
 ## EP1：配置
 
@@ -114,19 +114,19 @@ vim harbor.yml
 
 找到 `harbor_admin_password`
 
-![](https://act-webstatic.blueakio.com/2025/12/10/693918dd351ab.png)
+![](https://act-webstatic.akio.top/2025/12/10/693918dd351ab.png)
 
 将 `Harbor12345` 修改为另外的字符，**请牢记这串字符，这段字符将成为待会登录网页控制台的 Admin 账号的初始密码**
 
 同时，建议把 `database.password` 也修改成其他的字符（如下图位置），这串字符将成为 Harbor 待会部署的数据库的访问密码，但无需记住
 
-![](https://act-webstatic.blueakio.com/2025/12/10/693919db843d4.png)
+![](https://act-webstatic.akio.top/2025/12/10/693919db843d4.png)
 
 ### 修改访问地址
 
 在`harbor.yml`的顶部，找到 `hostname`
 
-![](https://act-webstatic.blueakio.com/2025/12/10/69391a4788b0a.png)
+![](https://act-webstatic.akio.top/2025/12/10/69391a4788b0a.png)
 
 修改 `hostname` 为实际的访问地址，这段不要求必须写域名，可以写服务器的IP
 
@@ -137,7 +137,7 @@ vim harbor.yml
 <details><summary>**你考虑使用 HTTP 作为你的 Docker 服务的协议**（特别不建议）</summary>
 把 `https` 相关字段都注释掉，然后修改 `http` 的端口号为你需要使用的端口号
 
-![](https://act-webstatic.blueakio.com/2025/12/10/69391c34ded4f.png)
+![](https://act-webstatic.akio.top/2025/12/10/69391c34ded4f.png)
 
 此时你的访问地址为 `http://<hostname>:<port>`（例如 http://reg.mydomain.com:10086）
 </details>
@@ -147,7 +147,7 @@ vim harbor.yml
   
 把 `https` 相关字段都注释掉，然后修改 `http` 的端口号为你需要使用的端口号
 
-![](https://act-webstatic.blueakio.com/2025/12/10/69391c34ded4f.png)
+![](https://act-webstatic.akio.top/2025/12/10/69391c34ded4f.png)
 
 然后去你的 web 服务那里配置反代，无需多余配置，只需要配置最基础的反向代理就行
 
@@ -158,7 +158,7 @@ vim harbor.yml
 <details><summary>**你考虑使用 HTTPS 作为你的 Docker 服务的协议，但不想做任何反代**</summary>
 将 `https.prot` 修改为你打算使用的端口号，同时把 `https.certificate` 修改为你 SSL 公钥的地址，把 `https.private_key` 修改为你 SSL 私钥的地址，并把 SSL 公私钥放置在对应目录
 
-![](https://act-webstatic.blueakio.com/2025/12/10/69391cf86bc14.png)
+![](https://act-webstatic.akio.top/2025/12/10/69391cf86bc14.png)
 
 此时仍需修改 `http` 的端口号，但只需要修改成一个不与其他应用冲突的地址，后续使用时无需使用此端口
 
@@ -182,7 +182,7 @@ bash install.sh
 
 出现 `Harbor has been installed and started successfully.` 时候，整个安装就完成了
 
-![](https://act-webstatic.blueakio.com/2025/12/10/69394798c51e7.png)
+![](https://act-webstatic.akio.top/2025/12/10/69394798c51e7.png)
 
 同时整一个服务已经运作起来了
 
@@ -194,13 +194,13 @@ bash install.sh
 
 然后你可以看到如下界面
 
-![](https://act-webstatic.blueakio.com/2025/12/10/6939531e24d3d.png)
+![](https://act-webstatic.akio.top/2025/12/10/6939531e24d3d.png)
 
 登录，初始账号（或者说 Admin 账号）的用户名为 `admin`，密码为你刚才设置的 `harbor_admin_password`
 
 登入后，你可以看到如下界面
 
-![](https://act-webstatic.blueakio.com/2025/12/10/693953947c3b6.png)
+![](https://act-webstatic.akio.top/2025/12/10/693953947c3b6.png)
 
 此时已经可以确定，整一个 Harbor 服务都已经正常运作起来了
 
@@ -211,7 +211,7 @@ bash install.sh
 
 点击右上角的用户标识，然后点击 `修改密码`，根据弹出的填写框填写所有必填内容即可
 
-![](https://act-webstatic.blueakio.com/2025/12/10/693955858c6dd.png)
+![](https://act-webstatic.akio.top/2025/12/10/693955858c6dd.png)
 
 ### 创建新用户
 
@@ -219,7 +219,7 @@ bash install.sh
 
 点击左侧的 `用户管理`，再点击 `创建用户`，根据弹出的填写框填写所有必填内容即可
 
-![](https://act-webstatic.blueakio.com/2025/12/10/693956583b769.png)
+![](https://act-webstatic.akio.top/2025/12/10/693956583b769.png)
 
 ## EP6：在 Docker 进行登录
 
@@ -230,13 +230,13 @@ docker login <hostname>:<port>
 
 然后会出现交互式填写
 
-![](https://act-webstatic.blueakio.com/2025/12/10/6939571e5f6bc.png)
+![](https://act-webstatic.akio.top/2025/12/10/6939571e5f6bc.png)
 
 先填写 `Username`（你刚创建用户时设置的用户名），回车，然后再填写 `Passport`（你刚创建用户时设置的密码，填写 Passport 不会显示填写的内容），然后回车
 
 如果账密都对，会出现以下内容
 
-![](https://act-webstatic.blueakio.com/2025/12/10/6939576fd58f3.png)
+![](https://act-webstatic.akio.top/2025/12/10/6939576fd58f3.png)
 
 此时你的服务器已经和你的 Harbor 连接上，各类提交和拉取（包括私密仓库）都畅通无阻
 
@@ -250,19 +250,19 @@ docker login <hostname>:<port>
 
 登录到你的 Harbor 网页之后，点击页面左边的 `仓库管理`，再点击 `新建目标`
 
-![](https://act-webstatic.blueakio.com/2025/12/10/693958a922aa6.png)
+![](https://act-webstatic.akio.top/2025/12/10/693958a922aa6.png)
 
 此时弹出 `新建目标` 窗口
 
 调整 `提供者` 选项，可以看到有12个选项
 
-![](https://act-webstatic.blueakio.com/2025/12/10/693958e02f7e4.png)
+![](https://act-webstatic.akio.top/2025/12/10/693958e02f7e4.png)
 
 如若选择 `harbor` 或是 `Docker Registry` 的话需要填写对应服务的地址（即 `目标URL`），如若选择这两个以外的选项的话，无需填写对应服务的地址
 
 这里以 `GitHub GHCR` 作为例子（不是 `Google GCR`，要看清了，这俩的地址就差一个字母）
 
-![](https://act-webstatic.blueakio.com/2025/12/10/69395a22d6aaf.png)
+![](https://act-webstatic.akio.top/2025/12/10/69395a22d6aaf.png)
 
 （关于如何获取 GitHub 访问凭证，请访问 [https://github.com/settings/tokens](https://github.com/settings/tokens)获取）
 
@@ -274,13 +274,13 @@ docker login <hostname>:<port>
 
 点击页面左边的 `项目`，再点击 `新建项目`
 
-![](https://act-webstatic.blueakio.com/2025/12/10/69395af4bfcd0.png)
+![](https://act-webstatic.akio.top/2025/12/10/69395af4bfcd0.png)
 
-![](https://act-webstatic.blueakio.com/2025/12/10/69395b4a621ab.png)
+![](https://act-webstatic.akio.top/2025/12/10/69395b4a621ab.png)
 
 然后点确定，就设置完成项目了
 
-![](https://act-webstatic.blueakio.com/2025/12/10/69395b6f2f795.png)
+![](https://act-webstatic.akio.top/2025/12/10/69395b6f2f795.png)
 
 ## END：拉取镜像
 

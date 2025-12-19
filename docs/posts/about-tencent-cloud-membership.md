@@ -19,14 +19,14 @@ permalink: /posts/default/about-tencent-cloud-membership/
 
 <!--more-->
 
-![](https://act-webstatic.blueakio.com/2025/12/10/693900dd09ad8.jpg)
+![](https://act-webstatic.akio.top/2025/12/10/693900dd09ad8.jpg)
 
 因为他并不是像超级会员那样交会费的，而是看你使用时间和消费水平的
 
-![](https://act-webstatic.blueakio.com/2025/12/10/693901a360796.png)
+![](https://act-webstatic.akio.top/2025/12/10/693901a360796.png)
 
 不过现阶段V1和V2会员没有什么区别，应当说是值得观望一下，但也不是不能入，毕竟不用花钱
 
-![](https://act-webstatic.blueakio.com/2025/12/10/6939018c5545a.png)
+![](https://act-webstatic.akio.top/2025/12/10/6939018c5545a.png)
 
 指不定以后变成会费制度了呢（跑

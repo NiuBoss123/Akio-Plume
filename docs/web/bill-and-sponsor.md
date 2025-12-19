@@ -18,7 +18,7 @@ permalink: /bill-and-sponsor/
 
 | 支付宝（推荐） | 微信支付 |
 | --- | --- |
-| ![](https://act-webstatic.blueakio.com/2025/08/22/68a7e8f3ef8de.jpg) | ![](https://act-webstatic.blueakio.com/2025/08/22/68a7e8f2bd651.png) |
+| ![](https://act-webstatic.akio.top/2025/08/22/68a7e8f3ef8de.jpg) | ![](https://act-webstatic.akio.top/2025/08/22/68a7e8f2bd651.png) |
 
 - 爱发电（不推荐）：https://afdian.com/a/misaka-akio
 #### 佣金类赞助

@@ -4,7 +4,7 @@ externalLinkIcon: false
 config:
   -
     type: banner
-    banner: https://act-webstatic.blueakio.com/2025/02/08/67a67cfde06a4.png
+    banner: https://act-webstatic.akio.top/2025/02/08/67a67cfde06a4.png
     bannerMask:
       light: 0.4
       dark: 0.6

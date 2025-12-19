@@ -10,9 +10,9 @@ categories: [文创产品]
 draft: false 
 permalink: /posts/cultural/bingjiang-rail-transit-map/
 ---
-![](https://act-webstatic.blueakio.com/2024/12/23/6769551b56fc5.png '宣传图')
-![](https://act-webstatic.blueakio.com/2024/12/23/676954bbb4e63.png '亮色版')
-![](https://act-webstatic.blueakio.com/2024/12/23/676955872d10b.png '暗色版')
+![](https://act-webstatic.akio.top/2024/12/23/6769551b56fc5.png '宣传图')
+![](https://act-webstatic.akio.top/2024/12/23/676954bbb4e63.png '亮色版')
+![](https://act-webstatic.akio.top/2024/12/23/676955872d10b.png '暗色版')
 
 ## 简介
 补发一个之前漏发了的线路图，也是复刻的，原图作者是[@柴荣猫猫](https://space.bilibili.com/1634064378)
@@ -20,8 +20,8 @@ permalink: /posts/cultural/bingjiang-rail-transit-map/
 这图复刻起来难度不高，主要还是原图本来就很规整，没有太多问题
 
 ## 高清图
-- 亮色版：https://act-webstatic.blueakio.com/2024/12/23/67694b7d9b189.png
-- 暗色版：https://act-webstatic.blueakio.com/2024/12/23/676955872d10b.png
+- 亮色版：https://act-webstatic.akio.top/2024/12/23/67694b7d9b189.png
+- 暗色版：https://act-webstatic.akio.top/2024/12/23/676955872d10b.png
 
 ## 注脚
 - 设计元素来源：轻地铁 ChinMetro、地铁通 Metroman
