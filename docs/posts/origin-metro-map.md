@@ -10,14 +10,14 @@ categories: [文创产品]
 draft: false 
 permalink: /posts/cultural/origin-metro-map/
 ---
-![](https://act-webstatic.akio.top/2024/12/23/67694aae2f03f.png '宣传图')
-![](https://act-webstatic.akio.top/2024/12/23/67694b7d9b189.png '亮色版')
-![](https://act-webstatic.akio.top/2024/12/23/67694b8a5d652.png '暗色版')
+![](https://image.blueakio.com/uploads/1/694ff609230a6.png '宣传图')
+![](https://image.blueakio.com/uploads/1/694ff7bc072de.png '亮色版')
+![](https://image.blueakio.com/uploads/1/694ff814b16cf.png '暗色版')
 
 ## 简介
 最近复刻的一张线路图，原图来自[@Lorester洛蕾丝特](https://space.bilibili.com/196604477) ）
 
-![](https://act-webstatic.akio.top/2024/12/23/67694b4361010.png)
+![](https://image.blueakio.com/uploads/1/694ff76a86bd0.png)
 
 相较于原图改了很多地方，包括压缩原图横向过于宽的地方，总而言之，还是逼出来了
 
@@ -26,8 +26,8 @@ permalink: /posts/cultural/origin-metro-map/
 欸不过也年末了，那就等明年再画吧
 
 ## 高清图
-- 亮色版：https://act-webstatic.akio.top/2024/12/23/67694b7d9b189.png
-- 暗色版：https://act-webstatic.akio.top/2024/12/23/67694b8a5d652.png
+- 亮色版：https://image.blueakio.com/uploads/1/694ff7bc072de.png
+- 暗色版：https://image.blueakio.com/uploads/1/694ff814b16cf.png
 
 ## 注脚
 - 设计元素来源：轻地铁 ChinMetro、地铁通 Metroman

@@ -10,9 +10,9 @@ categories: [文创产品]
 draft: false 
 permalink: /posts/cultural/tiancheng-rail-transit-map/
 ---
-![](https://act-webstatic.akio.top/2024/12/23/67694ee4aab70.png '宣传图')
-![](https://act-webstatic.akio.top/2024/12/23/67694ecd6e335.png '亮色版')
-![](https://act-webstatic.akio.top/2024/12/23/67694ed50a87a.png '暗色版')
+![](https://image.blueakio.com/uploads/1/694ff3f803141.png '宣传图')
+![](https://image.blueakio.com/uploads/1/694ff3fb211f6.png '亮色版')
+![](https://image.blueakio.com/uploads/1/694ff405a2451.png '暗色版')
 
 ## 简介
 瞎做的！闲的蛋疼花十个小时做的
@@ -23,8 +23,8 @@ permalink: /posts/cultural/tiancheng-rail-transit-map/
 ![额，不怎么好评价](https://mx-space.blueakio.com/api/v2/objects/icon/sz1st0a7u0k3b4e1ul.jpg)
 
 ## 高清图
-- 亮色版：https://act-webstatic.akio.top/2024/12/23/67694ecd6e335.png
-- 暗色版：https://act-webstatic.akio.top/2024/12/23/67694ed50a87a.png
+- 亮色版：https://image.blueakio.com/uploads/1/694ff3fb211f6.png
+- 暗色版：https://image.blueakio.com/uploads/1/694ff405a2451.png
 
 ## 注脚
 - 设计元素来源：轻地铁 ChinMetro、地铁通 Metroman
