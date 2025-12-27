@@ -14,6 +14,6 @@ Cloudflare 炸了好久，盯着status也盯累死我了（
 
 现在还有三个没恢复的，要去后台调整，结果是后台还没恢复（wtf
 
-![绝望.ing](https://act-webstatic.akio.top/2025/11/18/691c89a974ee8.jpg)
+![绝望.ing](https://image.blueakio.com/uploads/1/694ff1446b33b.jpg)
 
 事已至此之后要做容灾了，不想做（累
