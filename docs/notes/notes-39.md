@@ -17,7 +17,7 @@ permalink: /notes/39/
 
 前段时间中信终于是可以查看并调整二类卡的非柜面限额了，就跑去看看最大能调多少，没给我吓死
 
-![](https://act-webstatic.blueakio.com/2025/12/11/693a4a5dcdf80.jpg)
+![](https://image.blueakio.com/uploads/1/694ff0e1ef13a.jpg)
 
 日限额五百万？我全部东西卖掉都不到五百万，citic 也是五字神人了
 
