@@ -1,5 +1,5 @@
 ---
-title: （2024-03-18）个人简介界面更新
+title: 记录 2024 年第 78 天
 createTime: 2024-03-18
 date: 2024/03/18
 description: ''
